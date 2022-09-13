@@ -1,5 +1,6 @@
-﻿# dice-game-JS
+# dice-game-JS
 ## Dice game with Javascript
 
 ##DEMO
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/101663533/189990949-faf14e8a-99b0-4199-92df-fbc491d4caa1.gif)
+
+![Dicee](https://user-images.githubusercontent.com/101663533/189993770-3ba14a6a-d71a-40da-8c2c-55c3d9aa5bf4.gif)
